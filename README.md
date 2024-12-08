@@ -1,10 +1,10 @@
-# M-Centers
-Official M Centers Repository
+# M Centers 3.3
+The Official M Centers 3.3 Source Code Repository (Fork)
+
 # Notice
 This is no longer being updated. But pull requests will be accepted.
 
 # How to compile?
-
 1.  Download VS Code 2019 version 16.0.3.0 using Chocolatey: `choco install visualstudio2019community --version=16.0.3.0`
 2. Download .Net SDK in VS Code 2019
 3. Import the .snl file into VS Code
